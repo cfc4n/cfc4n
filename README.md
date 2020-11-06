@@ -5,7 +5,8 @@
 
 你好，今天你微笑了吗？ :smile:
 
-- 🎈 我是一名研发工程师，目前在[美团](https://github.com/Meituan-Dianping)工作。负责信息安全领域的Web防火墙WAF产品、JAVA运行时RASP产品、主机入侵检测HIDS等安全产品的设计与研发。
 - 🤵 三十而立。
 - 🔅 要热爱生活哦。
-
+- 🎈 我的博客 [https://www.cnxct.com](https://www.cnxct.com) 。
+- 🎈 我是一名研发工程师，目前在[美团](https://github.com/Meituan-Dianping)的信息安全部工作。
+- 🎈 负责Web防火墙、JAVA运行时RASP、主机入侵检测HIDS等安全的研发。
