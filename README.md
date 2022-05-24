@@ -3,10 +3,10 @@
 
 
 
-#### 你好，今天你微笑了吗？ :smile:
+#### 今天你微笑了吗？ :smile:
 
 - 🤵 三十而立，不抛弃，不放弃。
-- 🔅 要热爱生活哦，乐观、阳光。
+- 🔅 热爱生活，乐观、阳光。
 - 🎈 我的博客 [https://www.cnxct.com](https://www.cnxct.com) 。
 - 🎈 研发RD&研发leader，目前在[美团](https://github.com/Meituan)信息安全部工作。
 - 🎈 带领研发团队，负责WAF、RASP、HIDS、IOT等安全产品的研发工作。
