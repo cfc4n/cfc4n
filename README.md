@@ -5,11 +5,11 @@
 
 #### 今天你微笑了吗？ :smile:
 
-- 🤵 三十而立，不抛弃，不放弃。
+- 🤵 三十而立。
 - 🔅 热爱生活，乐观、阳光。
-- 🎈 我的博客 [https://www.cnxct.com](https://www.cnxct.com) 。
-- 🎈 研发leader，目前在[美团](https://github.com/Meituan)信息安全部工作。
-- 🎈 带领研发团队，负责WAF、RASP、HIDS、IOT等安全产品的研发工作。
+- 🎈 博客 [https://www.cnxct.com](https://www.cnxct.com) 。
+- 🎈 R&D，Team Leader，目前在[美团](https://github.com/Meituan)信息安全部工作。
+- 🎈 负责IDC、办公网领域的安全产品研发。
 - 🎈 开源作品： [eCapture旁观者](https://ecapture.cc) 。
 - 🎈 微信公众号：榫卯江湖
 
